@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Environment variable files
+.env
+
+# Log files
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Directory for debugging
+pids/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Storybook build outputs
+out/
+
+# TernJS documentation
+.tern-project
+
+# Miscellaneous
+.DS_Store
+*.pem
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.idea/
