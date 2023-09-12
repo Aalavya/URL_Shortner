@@ -5,7 +5,7 @@ const ShortUrl = require("./models/shortUrl"); // Make sure this path is correct
 
 const app = express();
 // Connect to the database
-mongoose.connect("mongodb://127.0.0.1:27017/urlSnapify", {
+mongoose.connect("mongodb://localhost/urlSnapify", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
