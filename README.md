@@ -79,10 +79,6 @@ For questions, suggestions, or support, please feel free to reach out to us at a
 
 We welcome contributions! If you have ideas for improvements or find any issues, please feel free to create a pull request or submit an issue.
 
-## License 📝
-
-This project is licensed under the [MIT License](LICENSE), so feel free to use, modify, and distribute it as you see fit.
-
-Enjoy simplified link management and sharing with the URL Shortener and QR Code Generator! 🚀🌐📱
+ 🚀🌐📱
 
 ---
