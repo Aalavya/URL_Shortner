@@ -80,6 +80,6 @@ For questions, suggestions, or support, please feel free to reach out to us at a
 We welcome contributions! If you have ideas for improvements or find any issues, please feel free to create a pull request or submit an issue.
 
  🚀🌐📱
- https://github.com/Aalavya/URL_Shortner/blob/main/Screenshot%20(676).png
+ ![Screenshot](https://github.com/Aalavya/URL_Shortner/blob/main/Screenshot%20(676).png)
 
 ---
