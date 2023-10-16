@@ -5,7 +5,7 @@ const ShortUrl = require("./models/shortUrl"); // Make sure this path is correct
 
 const app = express();
 // Connect to the database
-mongoose.connect("mongodb://localhost/urlSnapify", {
+mongoose.connect("mongodb://127.0.0.1:27017/urlSnapify", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
@@ -106,4 +106,4 @@ app.get("/qrCode/:shortUrl", async (req, res) => {
 
 // Start the server
 const port = process.env.PORT || 3000;
-app.listen(port, () => console.log(`I am Billionaire 💸💸💸💸`));
+app.listen(port, () => console.log(`It's Live 💸💸💸💸`));
